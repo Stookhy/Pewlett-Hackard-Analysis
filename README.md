@@ -18,8 +18,7 @@
 
 1.	Most of the employees that are approaching retirement hold senior positions (engineer and staff)
 
-![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Pyber_Summary.png?raw=true) 
-
+![This is an image](https://github.com/Stookhy/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles.png?raw=true) 
 
 2.	Most of the employees that are approaching retirement hold engineer positions (senior and non-senior)
 3.	Most of the employees that are eligible for mentorship hold senior positions (engineer and staff)
