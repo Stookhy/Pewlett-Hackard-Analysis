@@ -24,10 +24,10 @@
 
 ## Summary: 
 
-*   How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
-Senior titles signify the roles that need to be filled, 64% or over 57,000 out of 90k employees need to be filled in the near future.
+*   Senior titles signify the roles that need to be filled, 64% or over 57,000 out of 90k employees need to be filled in the near future.
 
-*   Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 
-Yes, there are enough employees to mentor the next generation, for each job title. 
+*   Yes, there are enough employees to mentor the next generation, for each job title. 
