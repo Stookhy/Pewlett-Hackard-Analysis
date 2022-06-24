@@ -24,6 +24,7 @@
 3.	Most of the employees that are eligible for mentorship hold senior positions (engineer and staff)
 4.	Most of the employees that are eligible for mentorship hold engineer positions (senior and non-senior)
 
+![This is an image](https://github.com/Stookhy/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship_Eligibility.png?raw=true)
 
 ## Summary: 
 
