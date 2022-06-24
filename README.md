@@ -17,6 +17,10 @@
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. 
 
 1.	Most of the employees that are approaching retirement hold senior positions (engineer and staff)
+
+![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Pyber_Summary.png?raw=true) 
+
+
 2.	Most of the employees that are approaching retirement hold engineer positions (senior and non-senior)
 3.	Most of the employees that are eligible for mentorship hold senior positions (engineer and staff)
 4.	Most of the employees that are eligible for mentorship hold engineer positions (senior and non-senior)
