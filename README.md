@@ -11,7 +11,7 @@
 
 ## Purpose and Analysis
 
-    The purpose is to determine the number of retiring employees per job title and identify employees eligible to participate in a mentorship program. Creating a summary for as many current employees reaching retirement. 
+The purpose is to determine the number of retiring employees per job title and identify employees eligible to participate in a mentorship program. Creating a summary for as many current employees reaching retirement. 
     
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. 
